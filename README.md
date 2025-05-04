@@ -13,7 +13,7 @@ I translate 🇬🇧🇪🇸 technical documentation for the Electron framework 
 
 ### Languages
 
-+ Javascript
++ JavaScript
 + Python
 
 ### Front-end
