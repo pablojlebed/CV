@@ -25,7 +25,7 @@ Now, I'm actively building my front-end skillset with HTML, CSS, and JavaScript,
 
 + The Front-End Developer Career Development Path at [Scrimba](https://scrimba.com)
 
-+ Coding Fundamentals and Front-End Fundamentals at [Exercism](https://exercise.org)
++ Coding Fundamentals and Front-End Fundamentals at [Exercism](https://exercism.org)
 
 
 ## Other
