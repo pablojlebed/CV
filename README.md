@@ -27,6 +27,9 @@ Now, I'm actively building my front-end skillset with HTML, CSS, and JavaScript,
 
 + Coding Fundamentals and Front-End Fundamentals at [Exercism](https://exercism.org)
 
+## Learing guidance
+
++ [MDN Curriculum](https://developer.mozilla.org/en-US/curriculum/)
 
 ## Other
 
