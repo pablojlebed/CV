@@ -5,7 +5,7 @@ Now, I'm actively building my front-end skillset with HTML, CSS, and JavaScript,
 
 ## Experience
 
-### Volunteer Translator at Electron (May 2025 - present)
+### Volunteer Translator (May 2025 - present)
 
 + [Electron](https://electronjs.org): 🇬🇧🇪🇸 using [Crowdin](https://crowdin.com)
 
