@@ -3,7 +3,7 @@ I'm transitioning from Analytical Chemistry to Front-End Development. I'm active
 
 ## Contributions
 
-+ Translator (May 2025 - present): [Electron](https://electronjs.org) docs - 🇬🇧🇪🇸 using [Crowdin](https://crowdin.com)
++ Translator (May 2025 - present): [freeCodeCamp](https://freecodecamp.org) docs - 🇬🇧🇪🇸 using [Crowdin](https://crowdin.com)
 
 ## Technical skills
 
