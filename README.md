@@ -7,7 +7,7 @@ Now, I'm actively building my front-end skillset with HTML, CSS, and JavaScript,
 
 ### Volunteer Translator at Electron (May 2025 - present)
 
-I translate 🇬🇧🇪🇸 technical documentation for the Electron framework using the Crowdin localization platform. I ensure accuracy and clarity of terminology to facilitate Spanish-speaking developers' understanding and adoption of the framework.
+I translate 🇬🇧🇪🇸 technical documentation for the Electron framework using the Crowdin localization platform.
 
 ## Technical skills
 
@@ -20,6 +20,10 @@ I translate 🇬🇧🇪🇸 technical documentation for the Electron framework 
 
 + HTML
 + CSS
+
+## Bootcamps
+
++ The Front-End Career Development Path at [Scrimba](https:/scrimba.com)
 
 ## Other
 
