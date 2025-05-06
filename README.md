@@ -1,7 +1,5 @@
 # Pablo Jorge Lebed
-I'm transitioning from Analytical Chemistry to Front-End Development.
-
-Now, I'm actively building my front-end skillset with HTML, CSS, and JavaScript, eager to apply that same precision and attention to detail in crafting efficient and well-documented web solutions.
+I'm transitioning from Analytical Chemistry to Front-End Development. I'm actively building my front-end skillset starting with HTML, CSS, and JavaScript.
 
 ## Contributions
 
