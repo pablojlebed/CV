@@ -5,29 +5,19 @@ Now, I'm actively building my front-end skillset with HTML, CSS, and JavaScript,
 
 ## Contributions
 
-### Translator (May 2025 - present)
-
-+ [Electron](https://electronjs.org) docs - 🇬🇧🇪🇸 using [Crowdin](https://crowdin.com)
++ Translator (May 2025 - present): [Electron](https://electronjs.org) docs - 🇬🇧🇪🇸 using [Crowdin](https://crowdin.com)
 
 ## Technical skills
 
-### Languages
-
-+ JavaScript
-+ Python
-
-### Front-end
-
-+ HTML
-+ CSS
++ Languages: JavaScript; Python
++ Front-end: HTML; CSS
 
 ## Bootcamps
 
 + The Front-End Developer Career Development Path at [Scrimba](https://scrimba.com)
-
 + Coding Fundamentals and Front-End Fundamentals at [Exercism](https://exercism.org)
 
-## Learing guidance
+## Learning guidance
 
 + [MDN Curriculum](https://developer.mozilla.org/en-US/curriculum/)
 
