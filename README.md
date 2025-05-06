@@ -23,7 +23,10 @@ I translate 🇬🇧🇪🇸 technical documentation for the Electron framework 
 
 ## Bootcamps
 
-+ The Front-End Career Development Path at [Scrimba](https:/scrimba.com)
++ The Front-End Developer Career Development Path at [Scrimba](https://scrimba.com)
+
++ Coding Fundamentals and Front-End Fundamentals at [Exercise](https://exercise.org)
+
 
 ## Other
 
