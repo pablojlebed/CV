@@ -3,9 +3,9 @@ I'm transitioning from Analytical Chemistry to Front-End Development.
 
 Now, I'm actively building my front-end skillset with HTML, CSS, and JavaScript, eager to apply that same precision and attention to detail in crafting efficient and well-documented web solutions.
 
-## Experience
+## Contributions
 
-### Volunteer Translator (May 2025 - present)
+### Translator (May 2025 - present)
 
 + [Electron](https://electronjs.org) docs - 🇬🇧🇪🇸 using [Crowdin](https://crowdin.com)
 
