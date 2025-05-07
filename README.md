@@ -14,6 +14,7 @@ I'm transitioning from Analytical Chemistry to Front-End Development. I'm active
 
 + The Front-End Developer Career Development Path at [Scrimba](https://scrimba.com)
 + Coding Fundamentals and Front-End Fundamentals at [Exercism](https://exercism.org)
++ Front-End Fundamentals at [Codeacademy](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
 
 ## Learning guidance
 
