@@ -1,4 +1,4 @@
-# Pablo Jorge Lebed
+# Pablo J Lebed
 I'm transitioning from Analytical Chemistry to Front-End Development. I'm actively building my front-end skillset starting with HTML, CSS, and JavaScript.
 
 ## Experience
