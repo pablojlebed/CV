@@ -1,9 +1,9 @@
 # Pablo Jorge Lebed
 I'm transitioning from Analytical Chemistry to Front-End Development. I'm actively building my front-end skillset starting with HTML, CSS, and JavaScript.
 
-## Contributions
+## Experience
 
-+ Translator (May 2025 - present): [freeCodeCamp](https://freecodecamp.org) docs - 🇬🇧🇪🇸 using [Crowdin](https://crowdin.com)
++ IT Coordinator (June 2025 - present): [Engineers without Borders](https://www.ewb-swe.org/) 🇸🇪
 
 ## Technical skills
 
